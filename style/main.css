@@ -1,0 +1,242 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.main
+{
+    max-width: 1920px;
+}
+.shapka
+{
+    background-color: #d66ada;
+    height: 135px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.lol
+{
+    text-decoration: none;
+    overflow: hidden;
+    display: none;
+}
+.heart
+{
+    width: 200px;
+    height: 200px;
+    background-image: url("https://i.gifer.com/origin/0c/0c21ccafee69f3a846b87c7161acd6ab_w200.gif");
+    background-size: 100%;
+    background-position: center center; 
+}
+p
+{
+    position: absolute;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: normal;
+    display: inline-block;
+    color: white;
+    flex: 0 0 580px;
+    margin-left: 200px;
+    text-transform: uppercase;
+    margin-top: 25px;
+    letter-spacing: 25px;
+
+}
+.kolag
+{
+    width: 1920px;
+    max-height: 2000px;
+}
+img
+{
+    width: 1920px;
+    max-height: 2000px;
+    position: absolute;
+}
+.f
+{
+    width: 524px;
+    height: 651px;
+    margin-top: 92px;
+    margin-left: 142px;
+    position: absolute;
+}
+.s
+{
+    width: 564px;
+    height: 964px;
+    margin-left: 1211px;
+    margin-top: 92px;
+    position: absolute;
+}
+.t 
+{
+    width: 1046px;
+    height: 335px;
+    margin-left: 142px;
+    margin-top: 1279px;
+    position: absolute;
+}
+.h 
+{
+    width: 564px;
+    height: 537px;
+    margin-left: 1211px;
+    margin-top: 1075px;
+    position: absolute;
+}
+.j 
+{
+    width: 499px;
+    height: 801px;
+    margin-left: 689px;
+    margin-top: 452px;
+    position: absolute;
+}
+.k 
+{
+    width: 524px;
+    height: 488px;
+    margin-left: 142px;
+    margin-top: 765px;
+    position: absolute;
+}
+.l 
+{
+    width: 499px;
+    height: 338px;
+    margin-left: 689px;
+    margin-top: 90px;
+    position: absolute;
+}
+.bot
+{
+    background-color: #d66ada;
+    height: 193px;
+    margin-top: 1702px;
+    display: flex;
+    justify-content: space-between;
+}
+.gif
+{
+    margin-top: 36px;
+    height: 35px;
+    margin-left: 142px;
+    margin-bottom: 56px;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    color: #d66ada;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 900;
+    letter-spacing: 15px;
+    padding: 25px 40px;
+}
+.text1
+{
+    width: 250px;
+    height: 154px;
+    margin-top: 20px;
+    margin-right: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+.ss
+{
+    font-size: 18px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: auto;
+    margin-left: auto;
+}
+.vk
+{
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 35px;
+    margin-left: auto;
+}
+.inst
+{
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 60px;
+    margin-left: auto;
+}
+.tt 
+{
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 85px;
+    margin-left: 0px;
+}
+.osn
+{
+    font-size: 18px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: auto;
+    margin-left: 350px;
+}
+.bu
+{
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 35px;
+    margin-left: 350px;
+}
+.lod
+{
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+.kol 
+{
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 85px;
+    margin-left: 350px; 
+}
+.tel
+{
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: white;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 45px;
+    margin-left: 750px; 
+}
